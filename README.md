@@ -16,7 +16,7 @@ Example usage:
  }
  
  static int all_tests() {
-     mu_run_test(test_socket_entry_new);
+     mu_run_test(test_add);
      return 0;
  }
  ```
