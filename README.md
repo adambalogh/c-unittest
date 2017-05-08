@@ -2,7 +2,7 @@
 Very basic unit testing library for C.
 
 Example usage:
-```
+```c
 
  #include "unittest.h"
  
